@@ -1,0 +1,157 @@
+.Menu{
+    background-color: #45015d;
+    color: white;
+    width: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    border-radius:8px;
+    padding: 10px 20px;
+    z-index: 2;
+}
+.Menu a{
+ display: block;
+ color: inherit;
+ text-decoration: none;
+ padding: 8px 16px;
+    
+}
+.Menu a:hover{
+    color: #45015d;
+    background-color: white;
+}
+h1{
+    font-size: 64px;
+    font-weight: 400;
+    
+}
+.Imeges img{
+    width: 45%;
+    margin: 5px;
+    border-radius: 8px;
+    opacity: 0.7;
+    
+}
+.Imeges img:hover{
+    opacity: 1;
+}
+.Content{
+    margin-left: 350px;
+    margin-right: 40px;
+}
+
+
+
+.Member{
+    width: 30%;
+     display: inline-block;
+    padding: 5px;
+}
+.Member img{
+    width: 100%;
+    border-radius: 8px;
+   
+}
+.role{
+    color: gray;
+}
+.Background{
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    padding: 8px;
+}
+.Tarif{
+    width: 47%;
+    display: inline-block;
+    text-align: center;
+}
+.Tarif ul{
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    padding-left: 0px;
+}
+.Tarif li{
+    list-style-type: none;
+    border-bottom: 1px #c0c0c0 solid;
+    padding: 10px 0;
+    
+}
+.Basic{
+  background-color:#45015d;
+    color: white;
+    padding: 25px 0;
+    border-radius: 8px;
+}
+.Pro{
+  background-color: #f44336;
+  color: white;
+  padding:25px 0;
+  border-radius: 8px;
+    
+  
+      
+}
+.Tarif a{
+    background-color: white;
+    border-radius:8px;
+    padding: 10px 15px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.Tarif a:hover{
+    background-color: #45015d;
+    color: white;
+}
+input{
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    outline:none;
+    padding: 8px;
+}
+.Contact a{
+    display:inline-block;
+    text-decoration: none;
+    padding: 10px;
+    width: 100%;
+    background-color: #45015d;
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 5px
+    
+}
+.Contact a:hover{
+    background-color: white;
+    border: 1px solid #45015d;
+    color: #45015d;
+     
+}
+.Footer{
+    background-color: #ccc;
+    width: 100%;
+    padding: 30px 0;
+    text-align: right;
+    margin-top:20px;
+}
+.Footer p{
+    margin-right: 15px;
+}
+body{
+    margin: 0;
+    font-family: "Poppins",sans-serif;
+}
+
+hr{
+    border: 5px solid #45015d;
+    border-radius: 4px;
+    margin: 20px 0;
+}
+h2{
+    color: #45015d;
+    font-size: 48px;
+}
+
+
+
